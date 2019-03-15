@@ -20,4 +20,4 @@
 
 
 
-* **Other information**:
+* **Other important information**:
